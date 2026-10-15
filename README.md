@@ -243,4 +243,4 @@ This repository serves as the official landing page for EverQuest II. The softwa
 **Get the most recent version of EverQuest II today!**
 
 ---
-**Last updated:** 2026-10-15 03:48:14 UTC
+**Last updated:** 2026-10-15 08:59:11 UTC
